@@ -1,20 +1,38 @@
-# CodTech Task 2 - TO-DO LIST APPLICATION (TKINTER GUI)
+# CodTech Python Internship
 
-**Intern ID: CITS9786**
-**Name: Dasari Vanaja**
-**Domain: Python Programming**
-**GitHub: https://github.com/vanaja9014/codtech-python-internship**
+**Intern:** Dasari Vanaja  
+**Intern ID:** CITS9786  
+**Duration:** 4 Weeks
 
-## Description
-A simple and interactive To-Do List application built using Python Tkinter. This app helps users manage their daily tasks efficiently with a clean graphical interface.
+## Tasks Completed
 
-## Features
-- Add New Tasks
-- Delete Selected Task
-- Clear All Tasks
-- User-friendly GUI
+### Task 1: Automated File Organizer
+- Organizes files into folders like Images, Docs, Videos based on extension
+- Uses Python os, shutil modules
+- File: `file_organizer.py`
 
-## Technologies Used
-- Python 3
-- Tkinter (GUI)
+### Task 2: To-Do List Application (Tkinter GUI)
+- Tkinter GUI with Add, Delete, Mark as Done
+- Saves tasks in `tasks.txt`
+- File: `todo_list.py`
 
+### Task 3: Weather App (CLI)
+- Console based Weather App
+- Takes city name and shows Temperature, Humidity, Condition
+- Uses wttr.in API - No API key needed
+- File: `weather_app.py`
+
+### Task 4: Web Scraper (Coming Soon)
+- Scrapes data from website using BeautifulSoup
+- File: `web_scraper.py`
+
+## How to Run
+pip install requests beautifulsoup4
+python file_organizer.py
+python todo_list.py
+python weather_app.py
+
+**Internship by CodTech IT Solutions**
+*Paste chesi `Commit changes` click chey!*
+
+*Ayinda Vanaja? README edit chesava?*
