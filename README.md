@@ -30,9 +30,9 @@
 - File: `web_scraper.py`
 
 ## How to Run
-pip install requests beautifulsoup4
-python file_organizer.py
-python todo_list.py
+pip install requests beautifulsoup4  
+python file_organizer.py  
+python todo_list.py  
 python weather_app.py
 
 
