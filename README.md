@@ -2,7 +2,7 @@
 
 **Intern:** Dasari Vanaja  
 **Intern ID:** CITS9786  
-**Duration:** 4 Weeks
+**Duration:** 8 Weeks
 
 ## Tasks Completed
 
