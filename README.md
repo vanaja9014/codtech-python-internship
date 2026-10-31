@@ -32,7 +32,4 @@ python file_organizer.py
 python todo_list.py
 python weather_app.py
 
-**Internship by CodTech IT Solutions**
-*Paste chesi `Commit changes` click chey!*
 
-*Ayinda Vanaja? README edit chesava?*
