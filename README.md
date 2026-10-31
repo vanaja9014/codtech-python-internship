@@ -22,8 +22,11 @@
 - Uses wttr.in API - No API key needed
 - File: `weather_app.py`
 
-### Task 4: Web Scraper (Coming Soon)
-- Scrapes data from website using BeautifulSoup
+### Task 4: Web Scraper (BeautifulSoup)
+- Scrapes quotes from quotes.toscrape.com using BeautifulSoup
+- Extracts Quote text, Author, and Tags
+- Saves data to quotes.csv file
+- Libraries used: requests, beautifulsoup4, csv
 - File: `web_scraper.py`
 
 ## How to Run
