@@ -1,6 +1,6 @@
 # CodTech Python Internship
 
-**Intern:** DASARI VANAJA
+**Intern:** DASARI VANAJA  
 **Intern ID:** CITS9786  
 **Duration:** 8 Weeks
 
